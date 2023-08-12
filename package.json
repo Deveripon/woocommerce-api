@@ -1,0 +1,14 @@
+{
+  "name": "woocommerce-product-api",
+  "version": "1.0.0",
+  "description": "\"This is and fake woocommerce product api\"",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch db.json --port 5050"
+  },
+  "author": "devripon",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
